@@ -1,4 +1,4 @@
-# Task Management System - Effective Mobile Java Developer Backend Challenge
+# Task Management System - backend with GoLang frontend with Typescript
 
 ## Functional Requirements
 
